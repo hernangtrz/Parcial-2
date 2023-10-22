@@ -1,0 +1,17 @@
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\Interfacez.exe.config
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\Interfacez.exe
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\Interfacez.pdb
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\BLL.dll
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\ENTITY.dll
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\DAL.dll
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\BLL.pdb
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\ENTITY.pdb
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\bin\Debug\DAL.pdb
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\obj\Debug\PresentacionGUI.csproj.AssemblyReference.cache
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\obj\Debug\Interfacez.Properties.Resources.resources
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\obj\Debug\PresentacionGUI.csproj.GenerateResource.cache
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\obj\Debug\PresentacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\obj\Debug\PresentacionGUI.csproj.CopyComplete
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\obj\Debug\Interfacez.exe
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\obj\Debug\Interfacez.pdb
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\Interfacez\obj\Debug\Interfacez.empleadosForm.resources

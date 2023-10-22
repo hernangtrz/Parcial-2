@@ -1,0 +1,6 @@
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\HERNAN GUTIERREZ\Desktop\Parcial\ENTITY\obj\Debug\ENTITY.pdb
